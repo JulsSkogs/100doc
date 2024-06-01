@@ -1,0 +1,1 @@
+This repo houses my worm for Max Schwartmueller's 100 Days of Code course on Udemy. I am hoping that working through this course will help me catch back up to speed on the previous web development learning I had undertaken and act as a good refresher and launching pad for further learning.
